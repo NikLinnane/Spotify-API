@@ -1,2 +1,2 @@
 # Spotify-API
-Analyzing Spotify data using the Spotipy API.
+This repository contains R and Python notebooks that cover the entirety of this project. The goal of this analysis is to better understand the vibe of mine and my friends collaborative Spotify playlist titled Hungry Guys Radio. Within R I was able to create ggplot2 visuals that show what each of us contribute to the playlist. In Python I was able to source the initial data from the Spotipy API as well as train machine learning models to recommend new songs that fit the playlist vibe.
